@@ -1220,7 +1220,7 @@ end
 
 return {
   patterns = {
-  "^([Aa]dd)$",
+  "^([Aa]dd+)$",
   "^([Aa]dd) (realm)$",
   "^([Rr]em)$",
   "^([Rr]em) (realm)$",
