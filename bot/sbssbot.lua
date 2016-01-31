@@ -207,8 +207,7 @@ function create_config( )
     "onservice",
     "inrealm",
     "ingroup",
-    "inpm",
-    "banhammer",
+    "inpm",    "banhammer",
     "stats",
     "anti_spam",
     "owners",
@@ -222,22 +221,19 @@ function create_config( )
     "leave_ban",
     "sharesudo"
     },
-    sudo_users = {114656499,122774063},--Sudo users
-    disabled_channels = {},
+    sudo_users = {},--Sudo users
+    disabled_channels = {170774776},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Pride Bot v1 
 An advance Administration bot based on Teleseed Plugins
 
-https://github.com/MRAHS/PRIDE-bot
+https://github.com/githubmereza/rezaaaaaaa
 
 Admin:
-@O_o_i_o_O
-
-Special thanks to :
-@Mr_Ah_S & @SBSS_Team
+@j_a_c_k_k_c_a_j
 
 Our channel :
-@Pride_Team
+@jack_channel
 ]],
     help_text_realm = [[
 Realm Commands:
